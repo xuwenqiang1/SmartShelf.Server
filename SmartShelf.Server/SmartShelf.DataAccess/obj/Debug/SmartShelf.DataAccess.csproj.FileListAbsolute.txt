@@ -1,0 +1,17 @@
+C:\Projects\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.DataAccess.dll
+C:\Projects\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.DataAccess.pdb
+C:\Projects\SmartShelf.Server\SmartShelf.DataAccess\obj\Debug\SmartShelf.DataAccess.dll
+C:\Projects\SmartShelf.Server\SmartShelf.DataAccess\obj\Debug\SmartShelf.DataAccess.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.DataAccess.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.DataAccess.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.Common.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.Model.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\log4net.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\Dapper.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.Common.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\SmartShelf.Model.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\log4net.xml
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\bin\Debug\Dapper.xml
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\obj\Debug\SmartShelf.DataAccess.csprojResolveAssemblyReference.cache
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\obj\Debug\SmartShelf.DataAccess.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.DataAccess\obj\Debug\SmartShelf.DataAccess.pdb

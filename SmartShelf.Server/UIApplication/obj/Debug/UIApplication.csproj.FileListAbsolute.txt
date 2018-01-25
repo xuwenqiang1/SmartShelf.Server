@@ -1,0 +1,14 @@
+D:\工作目录\智能仓储\SmartShelf.Server\UIApplication\bin\Debug\UIApplication.exe.config
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\bin\Debug\UIApplication.exe.config
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\bin\Debug\UIApplication.exe
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\bin\Debug\UIApplication.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.csprojResolveAssemblyReference.cache
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.Form1.resources
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.Properties.Resources.resources
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.csproj.GenerateResource.Cache
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.exe
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.登录.resources
+C:\Users\InformationSection\Desktop\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\bin\Debug\UIApplication.exe.config
+C:\Users\InformationSection\Desktop\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.exe
+C:\Users\InformationSection\Desktop\SmartShelf.Server20180124\SmartShelf.Server\UIApplication\obj\Debug\UIApplication.pdb

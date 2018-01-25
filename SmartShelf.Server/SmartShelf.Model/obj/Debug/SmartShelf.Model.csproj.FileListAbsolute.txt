@@ -1,0 +1,9 @@
+C:\Projects\SmartShelf.Server\SmartShelf.Model\bin\Debug\SmartShelf.Model.dll
+C:\Projects\SmartShelf.Server\SmartShelf.Model\bin\Debug\SmartShelf.Model.pdb
+C:\Projects\SmartShelf.Server\SmartShelf.Model\obj\Debug\SmartShelf.Model.dll
+C:\Projects\SmartShelf.Server\SmartShelf.Model\obj\Debug\SmartShelf.Model.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.Model\bin\Debug\SmartShelf.Model.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.Model\bin\Debug\SmartShelf.Model.pdb
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.Model\obj\Debug\SmartShelf.Model.csprojResolveAssemblyReference.cache
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.Model\obj\Debug\SmartShelf.Model.dll
+D:\SmartShelf.Server20180124\SmartShelf.Server\SmartShelf.Model\obj\Debug\SmartShelf.Model.pdb

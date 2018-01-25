@@ -1,0 +1,17 @@
+﻿2018-01-16 17:18:39,206 [Thread:11] INFO  - The server instance 智能货架通信服务 has been started!
+2018-01-16 17:18:39,213 [Thread:11] INFO  - 智能货架通信服务启动成功！
+2018-01-16 17:18:48,845 [Thread:12] INFO  - Session: 20f7ee11-595b-4713-83f8-c6a0cc672139/127.0.0.1:51586
+A new session connected!
+2018-01-16 17:19:30,795 [Thread:10] INFO  - The server instance 智能货架通信服务 has been started!
+2018-01-16 17:19:30,847 [Thread:10] INFO  - 智能货架通信服务启动成功！
+2018-01-16 17:19:31,013 [Thread:11] INFO  - Session: cc752b55-0232-41db-8753-cea46d100e7f/127.0.0.1:51682
+A new session connected!
+2018-01-16 17:19:31,093 [Thread:15] INFO  - 智能货架通信服务检测点连接,设备地址:127.0.0.1:51682,SessionId:cc752b55-0232-41db-8753-cea46d100e7f
+2018-01-16 23:08:39,259 [Thread:10] INFO  - The server instance 智能货架通信服务 has been started!
+2018-01-16 23:08:39,259 [Thread:10] INFO  - 智能货架通信服务启动成功！
+2018-01-16 23:08:39,747 [Thread:11] INFO  - Session: fad5077b-7412-4ba9-911a-618278c7238c/127.0.0.1:54841
+A new session connected!
+2018-01-16 23:08:39,754 [Thread:15] INFO  - 智能货架通信服务检测点连接,设备地址:127.0.0.1:54841,SessionId:fad5077b-7412-4ba9-911a-618278c7238c
+2018-01-16 23:08:52,716 [Thread:15] INFO  - Session: fad5077b-7412-4ba9-911a-618278c7238c/127.0.0.1:54841
+This session was closed for SocketError!
+2018-01-16 23:08:52,717 [Thread:16] INFO  - 智能货架通信服务检测点断开连接,设备地址:127.0.0.1:54841,SessionId:fad5077b-7412-4ba9-911a-618278c7238c，原因：SocketError
